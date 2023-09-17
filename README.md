@@ -1,6 +1,6 @@
 # collatz_complexity
 
-This code computes the complexity going from 1 to n in the Collatz tree.
+This code computes the complexity traversing the path from 1 to n in the Collatz tree.
 
 I define collatz complexity as the number of times we use the 3k + 1 rule in the collatz tree going from n to 1.
 
